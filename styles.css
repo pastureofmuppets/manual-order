@@ -1,0 +1,8 @@
+/* Drop line shown while dragging a file or folder between rows in the file explorer. */
+.nav-files-container .manual-order-drop-before {
+	box-shadow: inset 0 2px 0 0 var(--interactive-accent);
+}
+
+.nav-files-container .manual-order-drop-after {
+	box-shadow: inset 0 -2px 0 0 var(--interactive-accent);
+}

@@ -1,0 +1,10 @@
+{
+	"id": "manual-order",
+	"name": "Manual Order",
+	"version": "1.0.0",
+	"minAppVersion": "1.13.0",
+	"description": "Drag files and folders into any order you like in the file explorer.",
+	"author": "Ian Wright",
+	"authorUrl": "https://github.com/pastureofmuppets",
+	"isDesktopOnly": false
+}
